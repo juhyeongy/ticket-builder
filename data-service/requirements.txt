@@ -1,0 +1,8 @@
+pandas
+nltk
+statsmodels
+numpy
+flask
+sklearn
+keras
+gensim

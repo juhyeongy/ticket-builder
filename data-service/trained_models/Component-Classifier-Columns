@@ -1,0 +1,142 @@
+cpandas.indexes.base
+_new_Index
+p0
+(cpandas.indexes.base
+Index
+p1
+(dp2
+S'data'
+p3
+cnumpy.core.multiarray
+_reconstruct
+p4
+(cnumpy
+ndarray
+p5
+(I0
+tp6
+S'b'
+p7
+tp8
+Rp9
+(I1
+(I47
+tp10
+cnumpy
+dtype
+p11
+(S'O8'
+p12
+I0
+I1
+tp13
+Rp14
+(I3
+S'|'
+p15
+NNNI-1
+I-1
+I63
+tp16
+bI00
+(lp17
+VAdministration Guide
+p18
+aVAgent
+p19
+aVAgent Installer
+p20
+aVAgent Interop
+p21
+aVApp Qual Automation
+p22
+aVAppToggle
+p23
+aVApplications
+p24
+aVApps
+p25
+aVAssignments
+p26
+aVCommon Capture
+p27
+aVDatabase
+p28
+aVFile Share
+p29
+aVFile System
+p30
+aVGeneral
+p31
+aVHorizon Broker Agent
+p32
+aVIdentity
+p33
+aVInstaller
+p34
+aVKnowledge Base
+p35
+aVL10N
+p36
+aVLogging
+p37
+aVMS Office
+p38
+aVManager
+p39
+aVManager Installer
+p40
+aVManager Interop
+p41
+aVMetadata
+p42
+aVMonitoring
+p43
+aVNotifications
+p44
+aVOSS
+p45
+aVOVA
+p46
+aVOther
+p47
+aVPower CLI
+p48
+aVRBAC
+p49
+aVRegistration
+p50
+aVRegistry
+p51
+aVRelease Notes
+p52
+aVScheduler
+p53
+aVStartup / Log on
+p54
+aVStorage
+p55
+aVSystem
+p56
+aVTemplates
+p57
+aVUEM
+p58
+aVUser Guide
+p59
+aVVHD
+p60
+aVWindows 10
+p61
+aVWritables
+p62
+aVXMP/XMS
+p63
+aVvSphere
+p64
+atp65
+bsS'name'
+p66
+Nstp67
+Rp68
+.
